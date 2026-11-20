@@ -1,0 +1,9 @@
+{
+  "name": "Sticker Player",
+  "short_name": "Sticker Player",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111016",
+  "theme_color": "#17151d",
+  "icons": []
+}
